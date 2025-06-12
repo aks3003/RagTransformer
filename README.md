@@ -127,13 +127,6 @@ streamlit run app.py
 
 ---
 
-### 🔐 Security Note
-
-* API keys are loaded securely from `safe.env`
-* `.gitignore` ensures `.env` files are not pushed
-
----
-
 ### 🛠 Future Enhancements
 
 * [ ] Add reference links to responses
